@@ -7,6 +7,8 @@
 |            |                  |            |
 |            |                  |            |
 
+## Google Doc
+https://docs.google.com/document/d/1n5ZzA8OhceuoSsvdZxV8ftw8B5XZuO2sV7AgwQa80nE/edit
 
 ## How to request room:
 https://utexas.qualtrics.com/jfe/form/SV_bsim1PJo6blAENU
