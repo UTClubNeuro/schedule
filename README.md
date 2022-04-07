@@ -6,3 +6,10 @@
 | 2022/05/05 | TBA              | TBA        |
 |            |                  |            |
 |            |                  |            |
+
+
+## How to request room:
+https://utexas.qualtrics.com/jfe/form/SV_bsim1PJo6blAENU
+
+## contact for advertising on calendar
+psych-communications@utlists.utexas.edu
